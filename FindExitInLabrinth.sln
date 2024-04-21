@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindExitInLabrinth", "FindExitInLabrinth.csproj", "{EF72B100-E58F-460F-9D8B-3A0E04ED6A1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF72B100-E58F-460F-9D8B-3A0E04ED6A1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF72B100-E58F-460F-9D8B-3A0E04ED6A1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF72B100-E58F-460F-9D8B-3A0E04ED6A1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF72B100-E58F-460F-9D8B-3A0E04ED6A1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3176B64A-FD61-431E-9A47-50AE3A41FA37}
+	EndGlobalSection
+EndGlobal
