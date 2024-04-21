@@ -1,0 +1,15 @@
+E:\Projects\DotNet\FindExitInLabrinth\bin\Debug\net8.0\FindExitInLabrinth.exe
+E:\Projects\DotNet\FindExitInLabrinth\bin\Debug\net8.0\FindExitInLabrinth.deps.json
+E:\Projects\DotNet\FindExitInLabrinth\bin\Debug\net8.0\FindExitInLabrinth.runtimeconfig.json
+E:\Projects\DotNet\FindExitInLabrinth\bin\Debug\net8.0\FindExitInLabrinth.dll
+E:\Projects\DotNet\FindExitInLabrinth\bin\Debug\net8.0\FindExitInLabrinth.pdb
+E:\Projects\DotNet\FindExitInLabrinth\obj\Debug\net8.0\FindExitInLabrinth.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\DotNet\FindExitInLabrinth\obj\Debug\net8.0\FindExitInLabrinth.AssemblyInfoInputs.cache
+E:\Projects\DotNet\FindExitInLabrinth\obj\Debug\net8.0\FindExitInLabrinth.AssemblyInfo.cs
+E:\Projects\DotNet\FindExitInLabrinth\obj\Debug\net8.0\FindExitInLabrinth.csproj.CoreCompileInputs.cache
+E:\Projects\DotNet\FindExitInLabrinth\obj\Debug\net8.0\FindExitInLabrinth.sourcelink.json
+E:\Projects\DotNet\FindExitInLabrinth\obj\Debug\net8.0\FindExitInLabrinth.dll
+E:\Projects\DotNet\FindExitInLabrinth\obj\Debug\net8.0\refint\FindExitInLabrinth.dll
+E:\Projects\DotNet\FindExitInLabrinth\obj\Debug\net8.0\FindExitInLabrinth.pdb
+E:\Projects\DotNet\FindExitInLabrinth\obj\Debug\net8.0\FindExitInLabrinth.genruntimeconfig.cache
+E:\Projects\DotNet\FindExitInLabrinth\obj\Debug\net8.0\ref\FindExitInLabrinth.dll

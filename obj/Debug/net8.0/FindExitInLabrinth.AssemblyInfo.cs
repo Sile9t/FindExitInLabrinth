@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FindExitInLabrinth")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+28fcd9c114e6b9a4babd3ec0e2ee89952ec1155e")]
 [assembly: System.Reflection.AssemblyProductAttribute("FindExitInLabrinth")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FindExitInLabrinth")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
